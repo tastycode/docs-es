@@ -1,6 +1,8 @@
 message <<MARKDOWN
 Este sitio es mantenido por voluntarios de RailsBridge. Si encuentras algo que pudiera ser mejorado, por favor haz un [pull request](https://github.com/codificadas/docs) o [envíanos una nota](https://github.com/codificadas/docs/issues/new) vía GitHub Issues (no se requiere conocimiento técnico).
 
+Estudiando sola? Puedes buscar de ayuda en [nuestro foro sobre discourse](http://discourse.bridgefoundry.org/c/railsbridge-help). (Voluntarios para responder a preguntas siempre se necesita tambien!)
+
 # [Installfest](/installfest)
 
 Instrucciones para instalar Ruby y Rails en tu computadora. ¡Se requiere hacer esto antes de ir al taller de Rails!
